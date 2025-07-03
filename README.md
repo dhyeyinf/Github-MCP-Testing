@@ -1,1 +1,1 @@
-# Github-MCP-Testing
+# Testing repo for Github-MCP
