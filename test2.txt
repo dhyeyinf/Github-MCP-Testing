@@ -1,0 +1,1 @@
+Deleting file test from cli, mcp server, git, 1.2.3..
