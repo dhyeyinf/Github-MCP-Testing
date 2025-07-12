@@ -10,6 +10,8 @@ print("📦 Your Repositories:")
 for idx, name in enumerate(repos, 1):
     print(f"{idx}. {name}")
 
+
+# delete from here in cli
 # 🔍 Step 2: Ask user for input
 user_prompt = input("\nEnter keyword or exact repo name to explore (e.g., 'ai', 'Brand-Monitoring'): ").lower()
 
